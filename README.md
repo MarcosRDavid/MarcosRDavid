@@ -36,9 +36,9 @@ https://github.com/MarcosRDavid/dashboard-comercial-powerbi
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRDavid&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosRDavid&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRDavid&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRDavid&layout=compact)
 
 ---
 
