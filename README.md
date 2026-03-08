@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Olá, eu sou Marcos Rogerio David 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
