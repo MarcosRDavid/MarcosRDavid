@@ -45,7 +45,7 @@ https://github.com/MarcosRDavid/dashboard-comercial-powerbi
 ## 📫 Contato
 
 💼 LinkedIn  
-https://linkedin.com
+https://www.linkedin.com/in/marcosdavidads
 
 📧 Email  
-seuemail@email.com
+marcosrogerio0777@gmail.com
